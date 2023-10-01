@@ -1,0 +1,1 @@
+{"bootstrap.server": "YOUR_SERVER", "security.protocol" : "SASL_SSL", "sasl.jaas.config" : "org.apache.kafka.common.security.plain.PlainLoginModule required username='YOUR_USER' password='YOUR_SECRET_KEY';", "sasl.mechanism": "PLAIN"}

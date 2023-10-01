@@ -1,0 +1,5 @@
+./bin/start-micro-quickstart
+
+or
+
+root@ip-172-31-20-35:/home/ubuntu# start-micro-quickstart
